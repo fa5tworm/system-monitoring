@@ -24,7 +24,7 @@ This Python script monitors system health metrics in real-time using `psutil` an
 
 ## Example Output
 
-![System Monitoring](monitoring_example.png)
+![System Monitoring](figure.png)
 
 ## Notes
 
@@ -33,7 +33,7 @@ This Python script monitors system health metrics in real-time using `psutil` an
 
 ## Author
 
-- [Your Name](https://github.com/fa5tworm)
+- [Otmane Echaibi](https://github.com/fa5tworm)
 
 ## License
 
